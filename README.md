@@ -1,5 +1,3 @@
-My:
-
 
 I am student.
 I not well English.
